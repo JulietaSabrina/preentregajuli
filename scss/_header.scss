@@ -1,0 +1,19 @@
+// // Variables
+$colorPrimario: rgba(165, 44, 77, 1);
+$colorSecundario: rgba(216, 125, 149, 1);
+$colorTerciario: rgba(140, 26, 26, 1);
+$cuartoColor: pink;
+$colorBlanco: rgb(243, 214, 214);
+
+
+.Redes {
+    width: 100%;
+    display: flex;
+    color: $colorBlanco;
+    list-style: none;
+    justify-content: center;
+}
+
+.BandaNegra {
+    background-color: $colorSecundario;
+}
